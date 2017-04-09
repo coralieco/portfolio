@@ -1,0 +1,39 @@
+.navbar {
+  background-color: white;
+  height: 50px;
+}
+
+.presentation-banner {
+  background-color: white ;
+  border-bottom: 2px solid #FF5A5F;
+  padding: 15px 55px;
+  color: black;
+  position: relative;
+  font-family: 'Inconsolata', monospace;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.portfolio-banner {
+  margin: 20px 0;
+  font-family: 'Nothing You Could Do', cursive;
+}
+
+.portfolio-banner h1 {
+  padding-bottom: 20px;
+}
+
+/* Photo de profil */
+.profile-css {
+  width: 65px;
+  border-radius: 50%;
+  box-shadow: 5px 5px 24px -6px grey;
+  margin-bottom: 5px;
+}

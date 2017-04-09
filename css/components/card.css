@@ -1,0 +1,45 @@
+.card {
+  position: relative;
+  height: 280px;
+  background-size: cover !important;
+}
+
+.card-image {
+  width: 300px;
+  position: absolute;
+  left: 30px;
+}
+
+.card-text {
+  background-color: white;
+  position:absolute;
+  width: 300px;
+  left: 30px;
+  top: 162px;
+  box-shadow: 8px 10px 30px -11px rgba(0,0,0,0.6)
+}
+
+.card-text h4 {
+  font-family: 'Nothing You Could Do', cursive;
+  color: #FF5A5F ;
+}
+
+.card-text p {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.card-links {
+  position: absolute;
+  top: 6px;
+  right: 10px;
+  font-size: 18px;
+}
+
+.fa {
+  color: #FF5A5F;
+  margin-right: 5px;
+}
+
+.fa:hover {
+  color: black;
+}
